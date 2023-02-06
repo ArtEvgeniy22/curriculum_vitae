@@ -5,9 +5,9 @@
 # Hello!
 <p>My name is Eugene.</p>
 <p>
-    I am a 2nd year student of the National Technical University
-    "Igor Sikorsky Kyiv Polytechnic Institute". I study at the Faculty of Biomedical Engineering in
-    majors Computer Science.
+    I am a 2nd year student at the National Technical University
+    "Igor Sikorsky Kyiv Polytechnic Institute".
+    Doing my Bachelor in Computer Science in the Faculty of Biomedical Engineering.
 </p>
 
 
@@ -45,7 +45,7 @@
      and labs can be seen on GitHub.
 </p>
 <p>
-    🎤 I have Advanced English level.
+    🎤 I have an Advanced English level.
 </p>
 
 [content](#content)
@@ -61,7 +61,7 @@
 - get along with any type of people
 - don't allow conflict situations, and if they arise, I competently solve them
 - have leadership qualities, diligence and inspiration - all this
-   always helped me to gather around me people with common interests.
+  helped me to gather around me people with common interests.
 
 [content](#content)
 
