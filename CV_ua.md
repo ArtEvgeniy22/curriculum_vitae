@@ -52,7 +52,7 @@
 
 ✔️ "Сучасні операційні системи" Е. Таненбаум
 
-🕓️ [processing...] "Python and Machine Learning" Себастіан Рашка
+✔️ "Python and Machine Learning" С. Рашка
 
 [Зміст](#content)
 
@@ -96,8 +96,7 @@
 
 
 # Contacts
-- Email: artemenko23488@gmail.com
+- Email: fogpiligrim@gmail.com
 - Telegram: @yevheniiart
-- Instagram: @evgeniyeee
 
 [Зміст](#content)
