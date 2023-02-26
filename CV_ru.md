@@ -88,9 +88,8 @@
 
 
 # Contacts
-- Email: artemenko23488@gmail.com
+- Email: fogpiligrim@gmail.com
 - Telegram: @yevheniiart
-- Instagram: @evgeniyeee
 
 [Оглавление](#content)
 
