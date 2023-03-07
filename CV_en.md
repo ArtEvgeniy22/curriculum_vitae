@@ -30,7 +30,7 @@
 
 # Stack
 <p>
-    🐍 Certainly good in Python, HTML+CSS, have basic skills in SQL.
+    🐍 Certainly good in Python, HTML+CSS, have basic skills in SQL and C++.
 </p>
 <p>
     📂 Worked with Django framework; pytest, matplotlib, numpy, pandas,
