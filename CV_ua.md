@@ -42,6 +42,7 @@
 
 - 🔬 Digital Signal Processing: https://coursera.org/verify/specialization/KHXQH5HKR99Z
 - 💻 Python Basics: https://coursera.org/verify/MN3AVR6DDW8G
+- 📈 Криптограмотність та блокчейн, модуль 1: https://osvita.diia.gov.ua/share/csITU0O9Im_i7UlZD7BsKmTbMJhO9Iyj
 
 <p>
   Стало б дуже сумно, якби було тільки це, чи не так?
