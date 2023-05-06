@@ -39,6 +39,8 @@
     <li>💻 Python Basics: https://coursera.org/verify/MN3AVR6DDW8G</li>
     <li>📈 Криптограмотность и блокчейн, модуль 1: https://osvita.diia.gov.ua/share/csITU0O9Im_i7UlZD7BsKmTbMJhO9Iyj</li>
     <li>📈 Криптограмотность и блокчейн, модуль 2: https://osvita.diia.gov.ua/certificate-check/T0047491941</li>
+    <li>📈 Криптограмотность и блокчейн, модуль 3: https://osvita.diia.gov.ua/certificate-check/T0048030125</li>
+
 </ul>
     
 Было бы грустно, если бы это было всё, не так ли? К счастью, я ещё читаю:
