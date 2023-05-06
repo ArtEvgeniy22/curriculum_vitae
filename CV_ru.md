@@ -38,6 +38,7 @@
     <li>🔬 Digital Signal Processing: https://coursera.org/verify/specialization/KHXQH5HKR99Z</li>
     <li>💻 Python Basics: https://coursera.org/verify/MN3AVR6DDW8G</li>
     <li>📈 Криптограмотность и блокчейн, модуль 1: https://osvita.diia.gov.ua/share/csITU0O9Im_i7UlZD7BsKmTbMJhO9Iyj</li>
+    <li>📈 Криптограмотность и блокчейн, модуль 2: https://osvita.diia.gov.ua/certificate-check/T0047491941</li>
 </ul>
     
 Было бы грустно, если бы это было всё, не так ли? К счастью, я ещё читаю:
@@ -59,7 +60,7 @@
 </p>
 <p>
     📂 Работал с фреймворком Django, библиотеками pytest, matplotlib, numpy, pandas,
-     beautifulsoup, Keras, scikit-learn.
+     beautifulsoup4, requests, Keras, scikit-learn.
 </p>
 <p>
     📊 Владею базовыми навыками работы с Git и СУБД MySQL. Знаю основные алгоритмы и структуры данных,
