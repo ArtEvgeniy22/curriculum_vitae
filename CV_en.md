@@ -5,7 +5,7 @@
 # Hello!
 <p>My name is Eugene.</p>
 <p>
-    I am a 2nd year student at the National Technical University
+    I am a third-year student at the National Technical University
     "Igor Sikorsky Kyiv Polytechnic Institute".
     Doing my Bachelor in Computer Science in the Faculty of Biomedical Engineering.
 </p>
@@ -19,11 +19,11 @@
 
 
 # About
-- age: 19 years old
+- age: 20 years old
 - location: Kyiv
-- education: 2nd year of Computer Science, Faculty of Biomedical engineering, KPI
+- education: third-year of Computer Science, Faculty of Biomedical engineering, KPI
 - interested in: data science / backend
-- English level: Advanced (C1)
+- English level: B2/C1
 
 [content](#content)
 
