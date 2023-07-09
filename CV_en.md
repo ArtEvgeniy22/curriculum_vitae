@@ -45,7 +45,7 @@
      and labs can be seen on GitHub.
 </p>
 <p>
-    🎤 I have an Advanced English level.
+    🎤 I have an Upper intermediate English level.
 </p>
 
 [content](#content)
